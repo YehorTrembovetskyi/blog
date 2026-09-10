@@ -1,6 +1,6 @@
 baseURL = 'https://yehortrembovetskyi.github.io/blog/'
 languageCode = 'uk-ua'
-title = 'Твій блог'
+title = 'honeybee'
 theme = 'PaperMod'
 
 [params]
