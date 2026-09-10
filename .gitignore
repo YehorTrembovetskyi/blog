@@ -1,0 +1,21 @@
+# Hugo build output — GitHub Actions генерує це сам, не потрібно комітити
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Hugo lock-файл білду
+.hugo_build.lock
+
+# macOS
+.DS_Store
+
+# Редактори / IDE
+.idea/
+.vscode/
+
+# Node, якщо колись підключиш npm-залежності для теми
+node_modules/
+
+# Змінні середовища, якщо колись з'являться
+.env
