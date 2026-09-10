@@ -1,7 +1,21 @@
-baseURL = 'https://yehortrembovetskyi.github.io/blog/'
-languageCode = 'uk-ua'
-title = 'honeybee'
+baseURL = 'https://yehor.app/'
 theme = 'PaperMod'
+defaultContentLanguage = 'uk'
 
 [params]
   env = 'production'
+
+[languages]
+  [languages.uk]
+    languageCode = 'uk-UA'
+    languageName = 'Українська'
+    contentDir = 'content/uk'
+    title = 'honeybee'
+    weight = 1
+
+  [languages.de]
+    languageCode = 'de-DE'
+    languageName = 'Deutsch'
+    contentDir = 'content/de'
+    title = 'honeybee'
+    weight = 2
