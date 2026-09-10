@@ -1,3 +1,7 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = 'https://yehortrembovetskyi.github.io/blog/'
+languageCode = 'uk-ua'
+title = 'Твій блог'
+theme = 'PaperMod'
+
+[params]
+  env = 'production'
