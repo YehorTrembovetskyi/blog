@@ -1,6 +1,7 @@
 baseURL = 'https://yehor.app/'
 theme = 'PaperMod'
 defaultContentLanguage = 'uk'
+defaultContentLanguageInSubdir = true
 
 [params]
   env = 'production'
